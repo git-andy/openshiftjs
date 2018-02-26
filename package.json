@@ -6,4 +6,6 @@
   "scripts": {
     "start": "node server.js"
   }
+  "author": "Andy",
+  "license": "MIT"
 }
